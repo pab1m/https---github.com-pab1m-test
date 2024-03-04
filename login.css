@@ -140,6 +140,17 @@ button:hover {
 }
 
 
-.inputbox.phone-number {
-    margin: 0;
+
+.eye-icon {
+    color: white;
+    /* Білий колір для іконки ока */
+    cursor: pointer;
+    margin-right: 0px;
+    /* Посуваємо іконку ока на 10px вправо */
+}
+
+
+#passwordInput {
+    width: 200px;
+    /* Фіксована ширина поля вводу паролю */
 }
