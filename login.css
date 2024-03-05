@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'poppins', sans-serif;
+    font-family: 'Montserrat';
 }
 
 body {
@@ -150,7 +150,9 @@ button:hover {
 }
 
 
-#passwordInput {
+#passwordInput, #confirmPasswordInput {
     width: 200px;
     /* Фіксована ширина поля вводу паролю */
+
 }
+
